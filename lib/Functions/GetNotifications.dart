@@ -2,7 +2,7 @@ import 'dart:convert';
 
 import 'package:firebase_messaging/firebase_messaging.dart';
 import 'package:http/http.dart';
-const serverKey="AAAAaOdKc1M:APA91bG3gJZsGxiSUNhquw-KpGwJ7B7E2dEgNf93QKEI3VHMzUe85lNx1nYqm1pI3gIIjxJo5GEsbCBf4UCveU6utBhSqnM0D70Wnc_uD0A3tWeu7HYJ33QJu6SmcBQ-PWq5FeUFCXRz";
+const serverKey="hidden";
 
 class GetNotifications{
   FirebaseMessaging messaging = FirebaseMessaging.instance;
